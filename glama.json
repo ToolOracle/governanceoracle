@@ -1,1 +1,8 @@
-{"name": "GovernanceOracle", "description": "DORA Art. 5-6 ICT governance \u2014 10 MCP tools for board packs, framework reviews, KPIs", "category": "compliance", "tags": ["dora", "governance", "board", "compliance"], "tools": 10, "transport": "streamable-http", "endpoint": "https://tooloracle.io/governance/mcp/"}
+{
+  "name": "governanceOracle",
+  "description": "DORA Art. 5/6 ICT Governance \u2014 10 MCP tools for framework review",
+  "repository": "https://github.com/ToolOracle/governanceoracle",
+  "endpoint": "https://tooloracle.io/governance/mcp/",
+  "tools": 10,
+  "license": "MIT"
+}
