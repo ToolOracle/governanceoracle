@@ -1,0 +1,5 @@
+name: GovernanceOracle
+description: DORA Art. 5-6 Governance — board packs, KPIs — 10 tools
+endpoint: https://tooloracle.io/governance/mcp/
+transport: streamable-http
+license: MIT
